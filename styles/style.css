@@ -143,11 +143,13 @@ hr {
 	.container {
 		width: 100%;
 	}
+
 	.players,
 	.blogs,
 	.courses {
 		grid-template-columns: repeat(1, 1fr);
 	}
+
 	.player,
 	.blog,
 	.course {
