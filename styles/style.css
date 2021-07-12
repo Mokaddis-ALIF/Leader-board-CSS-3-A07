@@ -173,4 +173,7 @@ hr {
 		flex-direction: column;
 		align-items: center;
 	}
+	header {
+		display: none;
+	}
 }
